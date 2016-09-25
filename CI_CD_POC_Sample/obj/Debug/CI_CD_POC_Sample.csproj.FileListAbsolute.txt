@@ -1,0 +1,6 @@
+C:\Projects\CI_CD_POC\CI_CD_POC\CI_CD_POC_Sample\bin\Debug\CI_CD_POC_Sample.exe.config
+C:\Projects\CI_CD_POC\CI_CD_POC\CI_CD_POC_Sample\bin\Debug\CI_CD_POC_Sample.exe
+C:\Projects\CI_CD_POC\CI_CD_POC\CI_CD_POC_Sample\bin\Debug\CI_CD_POC_Sample.pdb
+C:\Projects\CI_CD_POC\CI_CD_POC\CI_CD_POC_Sample\obj\Debug\CI_CD_POC_Sample.csprojResolveAssemblyReference.cache
+C:\Projects\CI_CD_POC\CI_CD_POC\CI_CD_POC_Sample\obj\Debug\CI_CD_POC_Sample.exe
+C:\Projects\CI_CD_POC\CI_CD_POC\CI_CD_POC_Sample\obj\Debug\CI_CD_POC_Sample.pdb

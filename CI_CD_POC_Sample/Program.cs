@@ -11,6 +11,7 @@ namespace CI_CD_POC_Sample
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to CICD POC Sample application");
+            Console.WriteLine("Time now" + DateTime.Now.ToString());
         }
     }
 }
